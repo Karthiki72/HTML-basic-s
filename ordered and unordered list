@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apna collage - L1</title>
+</head>
+
+<body bgcolor="black" width="fullwidth" text="white">
+    <ol>
+        <li color="red"><b><u>Names</u></b></li>
+        <ul>
+            <li>karthik</li>
+            <li>althaf</li>
+            <li>hanif</li>
+            <li>nithin</li>
+        </ul>
+        <li color="green"><b><u>Cars</u>X</b></li>
+        <ul>
+            <li>ford</li>
+            <li>ferrari</li>
+            <li>mahendra</li>
+            <li>tata</li>
+        </ul>
+        <li color="blue"><b><u>sports</u></b></li>
+        <ul>
+            <li>cricket</li>
+            <li>football</li>
+            <li>e-sports</li>
+            <li>batmantion</li>
+        </ul>
+    </ol>
+</body>
+</html>
