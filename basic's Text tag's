@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apna collage - L1</title>
+</head>
+
+<body bgcolor="black" width="fullwidth" text="white">
+    <h1 color="white">Avengers</h1>
+    <h2 color="white">Iron man</h2>
+    <p color="white">Also goes by the name
+        <b><u>Tony Stark</u></b>
+    </p>
+    <h2 color="white">Captaion America</h2>
+    <p color="white">Also goes by the name
+        <b>Steve Rogers</b>
+    </p>
+    <h2>Hulk</h2>
+    <p color="peal">Also goes by the name
+        <b>Bruce Banner</b>
+    </p>
+  </body>
