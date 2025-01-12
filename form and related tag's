@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apna collage - L1</title>
+</head>
+
+<body bgcolor="black" width="fullwidth" text="white">
+    <form action="/server">
+        <div>
+            <label for="usename">username</label>
+            <input id="usename" type="text" placeholder="enter username" name="username"><br>
+
+            <label for="pass">password</label>
+            <input id="pass" type="password" placeholder="enter password"><br>
+
+            <label for="date">DOB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+            <input id="date" type="date"><br>
+
+            <label for="age">Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+            <input id="age" type="number" placeholder="enter age"><br>
+        </div>
+
+        <div>
+            <input id="check" type="checkbox" name="age">
+            <label for="check"> I am 18+</label><br>
+
+            <input type="radio" id="male" name="gender">
+            <label for="male">male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">female</label>
+            <input type="radio" id="others" name="gender" value="others">
+            <label for="others">Not prefered</label><br>
+        </div>
+        <div>
+            <label for="profession">Enter your profession </label>
+            <select name="profession" id="profession">
+                <option>Select</option>
+                <option value="stu">student</option>
+                <option value="dev">dev</option>
+                <option value="gov">government job</option>
+                <option value="pvt">private</option>
+                <option value="cop">corparate</option>
+                <option value="other">others</option>
+            </select><br>
+        </div>
+        <div>
+            <label for="feedback">enter feedback</label><br>
+            <textarea id="feedback" name="fb" placeholder="give feedback here"></textarea><br>
+        </div>
+
+
+
+        <button type="submit">Submit</button>
+
+    </form>
+</body>
+</html>
