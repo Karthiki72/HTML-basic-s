@@ -29,5 +29,9 @@
             <li>batmantion</li>
         </ul>
     </ol>
+
+<h2>using sub's and sup's </h2>
+    <p> Today is the 9<sup>th</sup> Oct and 2<sup>4</sup> = 16 Always.</p>
+
 </body>
 </html>
