@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apna collage - L1</title>
+</head>
+
+<body bgcolor="black" width="fullwidth" text="white">
+    <form action="/action">
+        <div>
+            <h2><label for="first">Registation Form</label></h2>
+            <div>
+                <input id="first" name="name" type="text" placeholder="first name">
+                <input type="text" placeholder="last name">
+            </div><br>
+            <div>
+                <label for="gender">enter your gender</label>
+                <select id="gender" name="Gender">
+                    <option>select Gender</option>
+                    <option value="male">male</option>
+                    <option value="female">female</option>
+                    <option value="other">others</option>
+                </select><br>
+            </div>
+            <div>
+                <label for="check">Do you agree All the Terms and Conditions</label>
+                <input type="checkbox" id="check" name="agree">
+                <label for="check">yes I agree</label><br>
+            </div>
+            <div>
+                <button type="submit">Register</button>
+            </div>
+        </div>
+    </form>
+</body>
