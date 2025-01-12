@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Apna collage - L1</title>
+</head>
+
+<body bgcolor="black" width="fullwidth" text="white"><centre>
+    <hr />
+    <form action="https://www.youtube.com/results?">
+        <label for="search">Search in youtube</label>
+        <input id="search" type="text" placeholder="enter text" name="search_query" />
+        <button type="submit">Search</button>
+    </form>
+    <hr />
+    <form action="https://www.google.com/search?">
+        <label for="search1">Search in google</label>
+        <input id="search1" type="text" placeholder="enter text" name="q" />
+        <button type="submit">Search</button>
+    </form>
+    <hr />
+</centre></body>
+</html>
